@@ -33,4 +33,5 @@ def start():
 The formula is:
 `y = 0.02x^3 + 3.06x^2 + 105.6x - 895`
 Where <b>x</b> is your level and <b>y</b> the calculated cost.
+<br>
 Formula and level chart can be found [on the Dark Souls Wikidot page](http://darksouls.wikidot.com/soul-level)
